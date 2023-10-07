@@ -1,4 +1,4 @@
 # ApexSetting
 ApexSetting
 ## Path
-### %USERPROFILE%\Saved Games\Respawn\Apex\
+### %USERPROFILE%\Saved Games\Respawn\
